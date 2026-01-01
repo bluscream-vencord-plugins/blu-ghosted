@@ -22,6 +22,10 @@ A cute ghost will appear if you don't answer their DMs (Clyde messages don't cou
 
 The plugin automatically tracks DMs and shows a ghost icon next to users who have sent you messages that you haven't responded to. Click on the ghost indicator at the top of the server list to see all ghosted users.
 
+## AI Disclaimer
+
+This plugin was developed with assistance from **Cursor.AI** (Cursor's AI coding assistant). The AI was used to help with code generation, debugging, documentation, and implementation. While AI assistance was utilized, all code and features were reviewed and tested to ensure quality and functionality.
+
 ## License
 
 GPL-3.0-or-later

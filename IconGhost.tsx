@@ -1,3 +1,5 @@
+// Authors: Bluscream, Cursor.AI
+// Created at 2025-12-21 00:52:20
 /*
  * Vencord, a Discord client mod
  * Copyright (c) 2025 Vendicated and contributors
@@ -16,4 +18,3 @@ export function IconGhost({ fill }) {
         </svg>
     );
 }
-
